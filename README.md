@@ -1,7 +1,5 @@
 # Bucketlist
 
-test
-
 Bucketlist is an application used to easily create and manage all of your bucketlists. Start organizing all of your present and future goals with this modern, cutting edge application built from the ground up.
 
 With Bucketlist users can seemless generate custom lists of objectives to help themselves stay on track and complete each goal. Immediately on sign in, you have the option to create a new list, view or edit an existing list, and even mark a list as complete!
